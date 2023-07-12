@@ -1,0 +1,18 @@
+For Alpine Linux base image (using the apk package manager):
+
+python3 (Python 3)
+nodejs (Node.js)
+openjdk8 (OpenJDK 8)
+php7 (PHP 7)
+For Debian/Ubuntu base image (using the apt package manager):
+
+python3 (Python 3)
+nodejs (Node.js)
+default-jdk (OpenJDK)
+php (PHP)
+For CentOS base image (using the yum package manager):
+
+python3 (Python 3)
+nodejs (Node.js)
+java-1.8.0-openjdk (OpenJDK 8)
+php (PHP)
